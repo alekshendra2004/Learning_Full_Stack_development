@@ -1,0 +1,59 @@
+.special-elite-regular {
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  margin:0 0 0 0;
+}
+#image{
+  background-image: url(images/vigilante.jpg);
+  margin: 0 auto 0 auto;
+  height: 500px;
+  width: 500px;
+  border: 3px solid #121212;
+}
+#heading{
+  font-family: "Special Elite";
+  font-size: 40px;
+  font-weight: bolder;
+  margin: 25px auto 25px auto;
+  text-align: center;
+}
+#content{
+  font-family: "Special Elite";
+  width: 500px;
+  margin: 15px auto 0 auto;
+  font-family: "Special Elite";
+  font-size: 20px;
+}
+#input{
+  font-family: "Special Elite";
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+#email{
+  width: 250px;
+  font-size: 25px;
+  margin: 0 auto 0 auto;
+  Border: 3px solid #121212;
+  text-align: center;
+}
+#Submit{
+  font-family: "Special Elite";
+  width: 260px;
+  background-color: #121212;
+  color: white;
+  font-size: 25px;
+  margin: 10px auto 0 auto;
+  padding-top: 5px;
+  Border: 3px solid #121212;
+  text-align: center;
+}
+p{
+    font-family: "Special Elite";
+  text-align: center;
+  font-style: italic;
+}
